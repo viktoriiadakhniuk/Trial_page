@@ -1,0 +1,102 @@
+body {
+    background-color: #ecf2ff;
+    color: #1f0440;
+    font-family: "Chiron GoRound TC", sans-serif;
+    font-weight: 200;
+}
+
+h1 {
+    text-align: center;
+}
+
+.line1 {
+    background-color: #001549;
+    width: 1500px;
+    height: 2px;
+    border: none;
+}
+
+.line2 {
+    background-color: #0b2261;
+    width: 1300px;
+    height: 4px;
+    border: none;
+}
+
+.line3 {
+    background-color: #243d83;
+    width: 1100px;
+    height: 6px;
+    border: none;
+}
+
+.line4 {
+    background-color: #3e58a8;
+    width: 900px;
+    height: 8px;
+    border: none;
+}
+
+.line5 {
+    background-color: #576fbc;
+    width: 700px;
+    height: 10px;
+    border: none;
+}
+
+.line6 {
+    background-color: #8499e1;
+    width: 500px;
+    height: 12px;
+    border: none;
+}
+
+a:link {
+    color: #001d5a;
+}
+a:visited {
+    color: #5403ae;
+}
+a:hover {
+    color: #5d348a;
+}
+a:active {
+    color: #243d83;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+        border: 1px solid black;
+        padding: 10px;
+}
+
+.teachers1 {
+    background-color: #001549;
+    color: #8499e1;
+}
+
+.teachers2 {
+    background-color: #8499e1;
+    color: #001549;
+}
+
+.students1 {
+    background-color: #230049;
+    color: #ca9bff;
+}
+
+.students2 {
+    background-color: #ca9bff;
+    color: #230049;
+}
